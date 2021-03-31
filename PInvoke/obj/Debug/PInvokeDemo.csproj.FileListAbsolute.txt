@@ -1,0 +1,6 @@
+D:\CSharpLearningNotes\PInvoke\bin\Debug\PInvoke.exe.config
+D:\CSharpLearningNotes\PInvoke\bin\Debug\PInvoke.exe
+D:\CSharpLearningNotes\PInvoke\bin\Debug\PInvoke.pdb
+D:\CSharpLearningNotes\PInvoke\obj\Debug\PInvokeDemo.csproj.CoreCompileInputs.cache
+D:\CSharpLearningNotes\PInvoke\obj\Debug\PInvoke.exe
+D:\CSharpLearningNotes\PInvoke\obj\Debug\PInvoke.pdb

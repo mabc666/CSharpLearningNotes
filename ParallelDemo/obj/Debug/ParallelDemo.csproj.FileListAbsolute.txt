@@ -1,0 +1,7 @@
+D:\CSharpLearningNotes\ParallelDemo\bin\Debug\ParallelDemo.exe.config
+D:\CSharpLearningNotes\ParallelDemo\bin\Debug\ParallelDemo.exe
+D:\CSharpLearningNotes\ParallelDemo\bin\Debug\ParallelDemo.pdb
+D:\CSharpLearningNotes\ParallelDemo\obj\Debug\ParallelDemo.csproj.CoreCompileInputs.cache
+D:\CSharpLearningNotes\ParallelDemo\obj\Debug\ParallelDemo.exe
+D:\CSharpLearningNotes\ParallelDemo\obj\Debug\ParallelDemo.pdb
+D:\CSharpLearningNotes\ParallelDemo\obj\Debug\ParallelDemo.csprojAssemblyReference.cache
