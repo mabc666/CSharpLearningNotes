@@ -1,0 +1,7 @@
+D:\CSharpLearningNotes\RedefineEqualsDemo\bin\Debug\RedefineEqualsDemo.exe.config
+D:\CSharpLearningNotes\RedefineEqualsDemo\bin\Debug\RedefineEqualsDemo.exe
+D:\CSharpLearningNotes\RedefineEqualsDemo\bin\Debug\RedefineEqualsDemo.pdb
+D:\CSharpLearningNotes\RedefineEqualsDemo\obj\Debug\RedefineEqualsDemo.csprojAssemblyReference.cache
+D:\CSharpLearningNotes\RedefineEqualsDemo\obj\Debug\RedefineEqualsDemo.csproj.CoreCompileInputs.cache
+D:\CSharpLearningNotes\RedefineEqualsDemo\obj\Debug\RedefineEqualsDemo.exe
+D:\CSharpLearningNotes\RedefineEqualsDemo\obj\Debug\RedefineEqualsDemo.pdb

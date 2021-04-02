@@ -1,7 +1,6 @@
 D:\CSharpLearningNotes\Task\bin\Debug\Task.exe.config
 D:\CSharpLearningNotes\Task\bin\Debug\Task.exe
 D:\CSharpLearningNotes\Task\bin\Debug\Task.pdb
-D:\CSharpLearningNotes\Task\obj\Debug\TaskDemo.csprojAssemblyReference.cache
 D:\CSharpLearningNotes\Task\obj\Debug\TaskDemo.csproj.CoreCompileInputs.cache
 D:\CSharpLearningNotes\Task\obj\Debug\Task.exe
 D:\CSharpLearningNotes\Task\obj\Debug\Task.pdb

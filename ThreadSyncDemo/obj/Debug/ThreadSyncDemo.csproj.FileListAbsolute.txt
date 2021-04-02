@@ -1,0 +1,7 @@
+D:\CSharpLearningNotes\ThreadSyncDemo\bin\Debug\ThreadSyncDemo.exe.config
+D:\CSharpLearningNotes\ThreadSyncDemo\bin\Debug\ThreadSyncDemo.exe
+D:\CSharpLearningNotes\ThreadSyncDemo\bin\Debug\ThreadSyncDemo.pdb
+D:\CSharpLearningNotes\ThreadSyncDemo\obj\Debug\ThreadSyncDemo.csprojAssemblyReference.cache
+D:\CSharpLearningNotes\ThreadSyncDemo\obj\Debug\ThreadSyncDemo.csproj.CoreCompileInputs.cache
+D:\CSharpLearningNotes\ThreadSyncDemo\obj\Debug\ThreadSyncDemo.exe
+D:\CSharpLearningNotes\ThreadSyncDemo\obj\Debug\ThreadSyncDemo.pdb

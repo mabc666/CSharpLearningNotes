@@ -60,6 +60,7 @@ namespace RedefineEqualsDemo
     {
         static void Main(string[] args)
         {
+
         }
     }
 }

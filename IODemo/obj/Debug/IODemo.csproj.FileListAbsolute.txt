@@ -1,7 +1,6 @@
 D:\CSharpLearningNotes\IODemo\bin\Debug\IODemo.exe.config
 D:\CSharpLearningNotes\IODemo\bin\Debug\IODemo.exe
 D:\CSharpLearningNotes\IODemo\bin\Debug\IODemo.pdb
-D:\CSharpLearningNotes\IODemo\obj\Debug\IODemo.csprojAssemblyReference.cache
 D:\CSharpLearningNotes\IODemo\obj\Debug\IODemo.csproj.CoreCompileInputs.cache
 D:\CSharpLearningNotes\IODemo\obj\Debug\IODemo.exe
 D:\CSharpLearningNotes\IODemo\obj\Debug\IODemo.pdb
