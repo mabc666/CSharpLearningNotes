@@ -21,6 +21,7 @@ namespace SemaphoreSlimDemo
                 Task.Run(() =>
                 {
                     semaphore.Wait();
+
                     try
                     {
                         Console.WriteLine($"第{index}个人正在过桥。");

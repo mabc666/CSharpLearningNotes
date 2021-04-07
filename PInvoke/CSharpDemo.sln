@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadSyncDemo", "..\Thread
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemaphoreSlimDemo", "..\SemaphoreSlimDemo\SemaphoreSlimDemo.csproj", "{50AD98B2-E06C-4C4A-AFC0-10E89D317677}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfDataBindingDemo", "..\WpfDataBindingDemo\WpfDataBindingDemo.csproj", "{FEB60A0E-4FF5-473B-BA70-C2678C982232}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{50AD98B2-E06C-4C4A-AFC0-10E89D317677}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50AD98B2-E06C-4C4A-AFC0-10E89D317677}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50AD98B2-E06C-4C4A-AFC0-10E89D317677}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEB60A0E-4FF5-473B-BA70-C2678C982232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEB60A0E-4FF5-473B-BA70-C2678C982232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEB60A0E-4FF5-473B-BA70-C2678C982232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEB60A0E-4FF5-473B-BA70-C2678C982232}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

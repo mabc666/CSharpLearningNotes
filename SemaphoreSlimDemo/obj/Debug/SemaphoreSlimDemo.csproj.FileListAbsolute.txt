@@ -4,3 +4,4 @@ D:\CSharpLearningNotes\SemaphoreSlimDemo\bin\Debug\SemaphoreSlimDemo.pdb
 D:\CSharpLearningNotes\SemaphoreSlimDemo\obj\Debug\SemaphoreSlimDemo.csproj.CoreCompileInputs.cache
 D:\CSharpLearningNotes\SemaphoreSlimDemo\obj\Debug\SemaphoreSlimDemo.exe
 D:\CSharpLearningNotes\SemaphoreSlimDemo\obj\Debug\SemaphoreSlimDemo.pdb
+D:\CSharpLearningNotes\SemaphoreSlimDemo\obj\Debug\SemaphoreSlimDemo.csprojAssemblyReference.cache
